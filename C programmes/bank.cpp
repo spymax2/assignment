@@ -1,4 +1,5 @@
-/*=>
+/*
+// program to show if someone is eligible or not eligible for the loan
 author:spymax
 reg no:CT101/G/22151/24
 */
