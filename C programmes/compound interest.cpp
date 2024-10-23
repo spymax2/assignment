@@ -1,5 +1,5 @@
 /*
-program to calculate the compound interest
+//program to calculate the compound interest
 author:spymax 
 reg no:CT101/G/22151/24
 date:24/09/2024
